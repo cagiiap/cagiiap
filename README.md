@@ -7,7 +7,7 @@
 
 ## I'm a Systems Development student.
 
-- 🌱 I’m currently learning about Java, Python, Web Development, Git and Github, and good code practices. 
+- 🌱 I’m currently learning about Java, Python, Web Development, Git and GitHub, and good code practices. 
 
 - 📖 I love to learn new things, new technologies, the learning process is essential for evolution.
 
