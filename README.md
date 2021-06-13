@@ -1,8 +1,8 @@
 # Hi there! I'm Carlos Roberto!
 
 <div>
-	<img height="180em" width="60vw" src="https://github-readme-stats.vercel.app/api?username=cagiiap&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-  	<img height="180em" width="40vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagiiap&layout=compact&theme=radical">
+	<img width="60vw" src="https://github-readme-stats.vercel.app/api?username=cagiiap&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  	<img width="40vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagiiap&layout=compact&theme=radical">
 </div>
 
 ## I'm a Systems Development student.
